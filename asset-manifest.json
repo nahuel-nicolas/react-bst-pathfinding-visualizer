@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bst-pathfinding-visualizer/static/css/main.b57a582d.chunk.css",
+    "main.js": "/react-bst-pathfinding-visualizer/static/js/main.388e4c55.chunk.js",
+    "main.js.map": "/react-bst-pathfinding-visualizer/static/js/main.388e4c55.chunk.js.map",
+    "runtime-main.js": "/react-bst-pathfinding-visualizer/static/js/runtime-main.66bd587c.js",
+    "runtime-main.js.map": "/react-bst-pathfinding-visualizer/static/js/runtime-main.66bd587c.js.map",
+    "static/js/2.b7f96315.chunk.js": "/react-bst-pathfinding-visualizer/static/js/2.b7f96315.chunk.js",
+    "static/js/2.b7f96315.chunk.js.map": "/react-bst-pathfinding-visualizer/static/js/2.b7f96315.chunk.js.map",
+    "static/js/3.9fa45725.chunk.js": "/react-bst-pathfinding-visualizer/static/js/3.9fa45725.chunk.js",
+    "static/js/3.9fa45725.chunk.js.map": "/react-bst-pathfinding-visualizer/static/js/3.9fa45725.chunk.js.map",
+    "index.html": "/react-bst-pathfinding-visualizer/index.html",
+    "static/css/main.b57a582d.chunk.css.map": "/react-bst-pathfinding-visualizer/static/css/main.b57a582d.chunk.css.map",
+    "static/js/2.b7f96315.chunk.js.LICENSE.txt": "/react-bst-pathfinding-visualizer/static/js/2.b7f96315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66bd587c.js",
+    "static/js/2.b7f96315.chunk.js",
+    "static/css/main.b57a582d.chunk.css",
+    "static/js/main.388e4c55.chunk.js"
+  ]
+}
